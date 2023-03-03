@@ -2,19 +2,12 @@ using UnityEngine;
 
 namespace RPG.Combat
 {
+    // make it unable to remove Health, and adds Health immediately when adding this Script
+    [RequireComponent(typeof(Health))]
+    
     public class CombatTarget : MonoBehaviour
     {
-        // Start is called before the first frame update
-        void Start()
-        {
-            
-        }
-
-        // Update is called once per frame
-        void Update()
-        {
-            
-        }
+        
     }
 }
 
