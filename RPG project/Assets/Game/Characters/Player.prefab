@@ -7,8 +7,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3935436527831319620, guid: 657ce4ddee11a4924a98101d074513c5, type: 3}
+      propertyPath: timeBetweenAttacks
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5513697974190405136, guid: 657ce4ddee11a4924a98101d074513c5, type: 3}
       propertyPath: m_Name
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5513697974190405136, guid: 657ce4ddee11a4924a98101d074513c5, type: 3}
+      propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 8462401576729667109, guid: 657ce4ddee11a4924a98101d074513c5, type: 3}
@@ -17,15 +25,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8462401576729667109, guid: 657ce4ddee11a4924a98101d074513c5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 11.562152
       objectReference: {fileID: 0}
     - target: {fileID: 8462401576729667109, guid: 657ce4ddee11a4924a98101d074513c5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.00000166893
       objectReference: {fileID: 0}
     - target: {fileID: 8462401576729667109, guid: 657ce4ddee11a4924a98101d074513c5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -17.091707
       objectReference: {fileID: 0}
     - target: {fileID: 8462401576729667109, guid: 657ce4ddee11a4924a98101d074513c5, type: 3}
       propertyPath: m_LocalRotation.w
