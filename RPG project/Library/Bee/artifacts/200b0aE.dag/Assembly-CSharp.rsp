@@ -350,6 +350,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/Combat/CombatTarget.cs"
 "Assets/Scripts/Combat/Fighter.cs"
+"Assets/Scripts/Combat/Health.cs"
 "Assets/Scripts/Control/PlayerController.cs"
 "Assets/Scripts/Core/ActionScheduler.cs"
 "Assets/Scripts/Core/FollowCamera.cs"
